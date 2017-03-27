@@ -1,0 +1,41 @@
+version: 2.0.0-RC4
+apkFileName: Tax.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '25'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '14'
+  versionName: '1.4'
+compressionType: false
+unknownFiles:
+  build-data.properties: '8'
+  com/itextpdf/text/AGPL.txt: '8'
+  com/itextpdf/text/LICENSE.txt: '8'
+  com/itextpdf/text/NOTICE.txt: '8'
+  com/itextpdf/text/l10n/error/en.lng: '8'
+  com/itextpdf/text/l10n/error/nl.lng: '8'
+  com/itextpdf/text/l10n/error/pt.lng: '8'
+  com/itextpdf/text/pdf/fonts/Courier-Bold.afm: '8'
+  com/itextpdf/text/pdf/fonts/Courier-BoldOblique.afm: '8'
+  com/itextpdf/text/pdf/fonts/Courier-Oblique.afm: '8'
+  com/itextpdf/text/pdf/fonts/Courier.afm: '8'
+  com/itextpdf/text/pdf/fonts/Helvetica-Bold.afm: '8'
+  com/itextpdf/text/pdf/fonts/Helvetica-BoldOblique.afm: '8'
+  com/itextpdf/text/pdf/fonts/Helvetica-Oblique.afm: '8'
+  com/itextpdf/text/pdf/fonts/Helvetica.afm: '8'
+  com/itextpdf/text/pdf/fonts/Symbol.afm: '8'
+  com/itextpdf/text/pdf/fonts/Times-Bold.afm: '8'
+  com/itextpdf/text/pdf/fonts/Times-BoldItalic.afm: '8'
+  com/itextpdf/text/pdf/fonts/Times-Italic.afm: '8'
+  com/itextpdf/text/pdf/fonts/Times-Roman.afm: '8'
+  com/itextpdf/text/pdf/fonts/ZapfDingbats.afm: '8'
+  com/itextpdf/text/pdf/fonts/cmap_info.txt: '8'
+  com/itextpdf/text/pdf/fonts/glyphlist.txt: '8'
+  com/itextpdf/text/pdf/fonts/mustRead.html: '8'
+  jsr305_annotations/Jsr305_annotations.gwt.xml: '8'
